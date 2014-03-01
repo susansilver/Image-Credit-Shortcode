@@ -103,7 +103,7 @@ credit="&copy; 2014. All Rights Reserved."
 
 4. Choose Upload.
 
-5. Choose the ZIP file you downloaded in setp 1. 
+5. Choose the ZIP file you downloaded in step 1. 
 
 6. After the plugin has been installed click activate. 
 
