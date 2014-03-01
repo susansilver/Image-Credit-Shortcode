@@ -6,13 +6,16 @@ This is a simple WordPress shortcode for properly crediting images in your blog 
 [3 Things You Must Know About WordPress Backups](http://cirquedumot.com/wordpress-backups/)
 
 Use at your own risk. I will do my best to help you if something goes wrong.
-Use the contact information on susansilver.info .
+Use the contact information on [susansilver.info](http://susansilver.info) .
 
 ## The Shortcode
 
 [imagecredit url="" website="" title="" profile="" author=""  deed="" credit=""]
 
 [Format follows Creative Commons best practices](http://wiki.creativecommons.org/Marking/Users)
+
+
+Will look like this on a Post or Page when used:
 
 Image Credit: <a href="URL" title="on WEBSITE">"TITLE"</a> by <a href="PROFILE" title="AUTHOR">AUTHOR</a> is licensed under <a href="DEED" title="CREDIT">CREDIT</a>
 
@@ -24,14 +27,14 @@ See it in action on Cirquedumot: http://cirquedumot.com/national-without-stigma-
 
 *URL*
 
-Also very simple, just the url of your image. For example for an image on Flickr. 
+AThe url of your image. For example for an image on Flickr. 
 
 url="http://www.flickr.com/photos/alesadam/3869366195/?rb=1" 
 
 
 *WEBSITE*
 
-This is simple, just the name of the website where you grabbed the image from. Most commonly I take mine from Flickr. To use the shortcode
+The name of the website where you grabbed the image from. Most commonly I take mine from Flickr. To use the shortcode
 I would use the following.
 
 website="Flickr" 
@@ -87,7 +90,7 @@ You could also use the credit for copyrighted material.
 
 For example crediting the screenshot of a website.
 
-credit="© 2014. All Rights Reserved."
+credit="ï¿½ 2014. All Rights Reserved."
 
 
 ## How to use this plugin
@@ -107,7 +110,7 @@ credit="© 2014. All Rights Reserved."
 
 ## More resources on how to credit images
 
-[12 Most Picture Perfect Ways To Ensure You’re Legally Using Online Photos](http://12most.com/2013/03/26/ensure-using-legally-online-photos/)
+[12 Most Picture Perfect Ways To Ensure Youï¿½re Legally Using Online Photos](http://12most.com/2013/03/26/ensure-using-legally-online-photos/)
 
 [WARNING! That Image on your Blog Post Could Cost you Thousands](http://designyourownblog.com/blog-design-resources/are-your-blog-images-violating-copyright/)
 
