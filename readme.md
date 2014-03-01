@@ -27,7 +27,7 @@ See it in action on Cirquedumot: http://cirquedumot.com/national-without-stigma-
 
 *URL*
 
-AThe url of your image. For example for an image on Flickr. 
+The url of your image. For example for an image on Flickr. 
 
 url="http://www.flickr.com/photos/alesadam/3869366195/?rb=1" 
 
