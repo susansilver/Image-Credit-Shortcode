@@ -83,14 +83,14 @@ The credit attribute is where you write the license of the image.
 
 For example this is how I would input a Creative Commons Attribution and Share Alike licensed image using this shortcode. 
 
-credit="CC BY SA "   
+credit="CC BY NC SA "   
 
 
 You could also use the credit for copyrighted material.
 
 For example crediting the screenshot of a website.
 
-credit="� 2014. All Rights Reserved."
+credit="&copy; 2014. All Rights Reserved."
 
 
 ## How to use this plugin
